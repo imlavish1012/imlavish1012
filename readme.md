@@ -44,7 +44,22 @@ Alongside engineering, I'm continuously learning new technologies and improving 
 ## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<!-- You can connect Hashnode later if needed -->
+
+<table>
+<tr>
+<td>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700000000000/kubernetes.png" alt="Understanding Kubernetes Architecture">
+</td>
+<td>
+<a href="https://lavishgupta.hashnode.dev/understanding-kubernetes-architecture">
+<strong>Understanding Kubernetes Architecture</strong>
+</a>
+<br>
+A complete deep dive into Kubernetes architecture including control plane components, worker nodes, kubelet, scheduler, API server, etcd, and how everything works together internally.
+</td>
+</tr>
+</table>
+
 <!-- HASHNODE_BLOG:END -->
 
 <br>
