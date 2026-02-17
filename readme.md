@@ -3,67 +3,143 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Suraj-kumar00&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-kumar00" /> </p>
 -->
 
-## About me 🧑🏻‍💻
 
-Hi There! I'm Suraj 👋🏻
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Lavish Gupta</h1>
+<h3 align="center">Senior DevOps Engineer | Kubernetes | Multi-Cloud | Terraform | Platform Engineering</h3>
 
-I'm a DevOps Engineer ♾️ and open-source contributor 🧑🏻‍💻. I'm always striving for the best code quality and seamless workflows. Currently, I'm practicing Cloud/DevOps and Cloud-Native technologies. Alongside coding, I'm a Technical Writer at [Hashnode](https://surajk00.hashnode.dev/), [Dev.to](https://dev.to/surajkumar00) & [Medium](https://medium.com/@Suraj-kumar00) 📝. In my free time, I love traveling, reading books.
+<p align="center">
+  <a href="mailto:gupta.lavish1213@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gupta.lavish1213%40gmail.com-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/lavish1012/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lavish%20Gupta-blue?style=flat&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat">
+</p>
 
-📫 How to reach me [suraj.ukumar.p@gmail.com](mailto:suraj.ukumar.p@gmail.com)
+---
 
-## 🛠️ Technologies & Tools
+# 👨‍💻 About Me
 
-- **Programming/Scripting Languages worked with:** Python, JavaScript, Bash Scripting, Java
-- **Frontend Development:** React.js, Next.js
-- **Backend Development:** Node.js, Express 
-- **Databases:** Proficient in PostgreSQL
-- **DevOps Tools:** Docker, Kubernetes, AWS, CI/CD pipelines,Jenkins, GitLab, Helm, ArgoCD, GitOps, Terraform, Ansible, Nginx, Prometheus/Grafana, Build tools, YAML
-- **Version Control:** Git and GitHub
-  
-## 🌱 Current Goals
+Senior DevOps Engineer with 3+ years of experience architecting scalable, secure, and highly available cloud infrastructure across AWS, Azure, and GCP.
 
-- Get better at DevOps & FinOps
-- Learn MLOps & AIOps
-- Contribute to CNCF Projects
-- Learn Golang
-- Help poeople to get into tech!
+I specialize in Kubernetes, Terraform, GitOps, and observability-driven platform engineering. I have built production-grade infrastructure, implemented secure multi-tenant Kubernetes platforms, automated deployments using GitOps, and significantly optimized cloud costs.
 
+Currently focused on building scalable, secure, and automated cloud-native platforms.
 
-<!-- Read the blogs here on my hashnode profile -->
+---
 
-## Latest Blog Posts 👇
+# 🚀 What I Do
 
-<!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1770925104424/1f2af145-33b7-4c90-bb21-3a93d436df47.png" alt="How I Contributed to the CNCF Kubernetes Conformance Program"></td><td><a href="https://surajk00.hashnode.dev/how-i-contributed-to-the-cncf-kubernetes-conformance-program"><strong>How I Contributed to the CNCF Kubernetes Conformance Program</strong></a><br>Submitting Kubernetes v1.34 conformance results for Kubespray.
-Every Kubernetes distribution needs to prove it behaves like Kubernetes. That proof comes through the CNCF Kubernetes Conformance Program, a standardized set of 424 end-to-end tests that ...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757877525408/79519833-0efb-4a79-973c-d6fabac9128f.png" alt="Fix Wrong Authors Commits the Safe Way Using Git Rebase"></td><td><a href="https://surajk00.hashnode.dev/fix-wrong-authors-commits-the-safe-way-using-git-rebase"><strong>Fix Wrong Authors Commits the Safe Way Using Git Rebase</strong></a><br>Introduction
-Ever committed code with the wrong Git author? Whether you're juggling personal and work accounts or just forgot to configure your identity in a new project, this happens to the best of us. The good news? You can fix it safely and in thi...</td></tr></table>
-<!-- HASHNODE_BLOG:END -->
+• Architect scalable infrastructure on AWS, Azure, and GCP  
+• Build and manage production Kubernetes clusters  
+• Implement GitOps using ArgoCD and Helm  
+• Automate infrastructure using Terraform  
+• Design observability platforms using Prometheus, Grafana, Loki, and Mimir  
+• Implement DevSecOps and runtime security  
 
-<br>
+---
 
-<br>
+# 🛠️ Technologies & Tools
 
-<h2 align="center">My GitHub Stats</h2>
-  </div>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-stats.vercel.app/api?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Suraj's GitHub stats" /></a> 
-        </td>
-        <td width="45%">
-          <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-kumar00&theme=tokyonight&hide_border=true" /></a>
-    </table>
-      </div>
-      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-kumar00&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-    </td>
-  </tr>
+## Cloud Platforms
+• AWS  
+• Azure  
+• GCP  
 
-</table>
+## DevOps & Platform Engineering
+• Kubernetes  
+• Terraform  
+• Helm  
+• ArgoCD  
+• Docker  
+• ECS  
 
-</div>
-      
-<a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kumar00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
-</td>
+## CI/CD
+• GitHub Actions  
+• GitLab CI/CD  
+• Jenkins  
+• Bitbucket Pipelines  
+
+## Observability
+• Prometheus  
+• Grafana  
+• Loki  
+• Mimir  
+• Thanos  
+• ELK Stack  
+• CloudWatch  
+
+## DevSecOps
+• Hashicorp Vault  
+• Trivy  
+• Snyk  
+• SonarQube  
+• Falco  
+• AWS WAF  
+• GuardDuty  
+• Security Hub  
+
+## Programming & Scripting
+• Python  
+• Bash  
+• YAML  
+
+---
+
+# 🏗️ Key Highlights
+
+• Built production-grade Kubernetes platforms on AWS EKS  
+• Reduced infrastructure cost by 60–70% using autoscaling and optimization  
+• Migrated production workloads with zero downtime  
+• Built centralized observability platform across clusters  
+• Implemented full DevSecOps pipeline  
+
+---
+
+# 📜 Certifications
+
+• AWS Certified DevOps Engineer – Professional  
+• Terraform Associate – Hashicorp  
+• Certified Kubernetes Administrator  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+# 🎯 Current Focus
+
+• Platform Engineering  
+• Multi-Cluster Kubernetes  
+• GitOps  
+• DevSecOps  
+• Observability  
+
+---
+
+# 📫 Connect With Me
+
+Email: gupta.lavish1213@gmail.com  
+LinkedIn: https://www.linkedin.com/in/lavish1012/
+
+---
+
+⭐ From Lavish Gupta
+
   
  
