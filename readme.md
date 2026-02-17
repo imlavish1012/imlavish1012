@@ -15,8 +15,8 @@ Alongside engineering, I'm continuously learning new technologies and improving 
 
 ## 📫 How to reach me  
 
-Email: [gupta.lavish1213@gmail.com](mailto:gupta.lavish1213@gmail.com)
-LinkedIn: https://www.linkedin.com/in/lavish1012/
+- Email: [gupta.lavish1213@gmail.com](mailto:gupta.lavish1213@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/lavish1012/
 
 ## 🛠️ Technologies & Tools
 
