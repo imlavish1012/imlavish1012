@@ -75,8 +75,5 @@ Alongside engineering, I'm continuously learning new technologies and improving 
 </table>
 
 </div>
-      
-<a href="http://www.github.com/imlavish1012">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlavish1012&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" />
-</a>
+    
 </td>
