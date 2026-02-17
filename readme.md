@@ -13,8 +13,7 @@ Currently, I'm working on advanced Kubernetes platforms, multi-cloud infrastruct
 
 Alongside engineering, I'm continuously learning new technologies and improving platform reliability, security, and scalability. In my free time, I enjoy traveling and exploring new technologies.
 
-📫 How to reach me  
-[gupta.lavish1213@gmail.com](mailto:gupta.lavish1213@gmail.com)
+📫 How to reach me  [gupta.lavish1213@gmail.com](mailto:gupta.lavish1213@gmail.com)
 
 LinkedIn: https://www.linkedin.com/in/lavish1012/
 
