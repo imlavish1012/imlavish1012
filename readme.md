@@ -1,50 +1,43 @@
-<!-- Visitors counter 
-
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=imlavish1012&label=Profile%20views&color=0e75b6&style=flat" alt="Lavish Gupta" /> </p>
--->
-
 ## About me 🧑🏻‍💻
 
 Hi There! I'm Lavish 👋🏻
 
-I'm a DevOps Engineer at Infra360 ♾️ with 3+ years of experience architecting scalable cloud infrastructure and automating deployments across AWS, Azure, and GCP. I specialize in Kubernetes, Terraform, GitOps, observability, and DevSecOps. I'm passionate about building reliable, secure, and highly scalable cloud-native platforms.
+I'm a Senior DevOps Engineer & Team Lead at Infra360 ♾️ with 4+ years of experience architecting and scaling cloud infrastructure across AWS, Azure, and GCP. I specialize in Kubernetes, Terraform, GitOps, DevSecOps, and AI/ML infrastructure — including production RAG platforms and LLM-backed systems at scale.
 
-Currently, I'm working on advanced Kubernetes platforms, multi-cloud infrastructure, observability stacks, and platform automation.
+Currently leading a team of 4–5 engineers, managing 5+ enterprise AWS accounts, and building secure, observable, cost-optimized cloud-native platforms for enterprise clients.
 
-Alongside engineering, I'm continuously learning new technologies and improving platform reliability, security, and scalability. In my free time, I enjoy traveling and exploring new technologies.
+In my free time I enjoy traveling and exploring new technologies.
 
-## 📫 How to reach me  
-
+## 📫 How to reach me
 - Email: [gupta.lavish1213@gmail.com](mailto:gupta.lavish1213@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/lavish1012/
 
+## 🏅 Certifications
+- **Certified Kubernetes Administrator (CKA)** — Linux Foundation / CNCF (Jan 2025)
+- **AWS Certified DevOps Engineer – Professional** — Amazon Web Services (Sep 2024)
+- **HashiCorp Certified: Terraform Associate** — HashiCorp (Aug 2024)
+
 ## 🛠️ Technologies & Tools
 
-- **Cloud Platforms:** AWS, Azure, GCP  
-- **Containerization & Orchestration:** Docker, Kubernetes, Helm, ECS  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins, Bitbucket Pipelines, ArgoCD  
-- **Monitoring & Observability:** Prometheus, Grafana, Loki, Mimir, Thanos, ELK Stack, CloudWatch  
-- **DevSecOps & Security:** Hashicorp Vault, Trivy, Snyk, SonarQube, Falco, AWS WAF, GuardDuty, Security Hub  
-- **Scripting:** Python, Bash, YAML  
-- **Web & Proxy:** Nginx  
-- **Version Control:** Git and GitHub
-  
+- **Cloud Platforms:** AWS (primary), Azure, GCP
+- **Containerization & Orchestration:** Docker, Kubernetes, EKS, ECS, Helm, Karpenter, KEDA, Istio
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
+- **CI/CD:** GitHub Actions, ArgoCD, GitLab CI/CD, Jenkins, Bitbucket Pipelines, CircleCI
+- **Observability:** Prometheus, Grafana, Loki, Mimir, Thanos, ELK Stack
+- **DevSecOps & Security:** Trivy, Snyk, SonarQube, Falco, OWASP ZAP, AWS WAF, GuardDuty, Security Hub
+- **AI/ML Infrastructure:** RAG Pipelines, pgvector, OpenAI API, Amazon Bedrock, LLM Serving
+- **Scripting:** Python, Shell Scripting
+- **Other:** Apache Airflow, k6, Nginx
+
 ## 🌱 Current Goals
-
-- Build scalable multi-cluster Kubernetes platforms  
-- Advance in Platform Engineering  
-- Strengthen DevSecOps expertise  
-- Contribute to CNCF and open-source projects  
-- Master advanced cloud-native architectures  
-
-
-<!-- Read the blogs here on my hashnode profile -->
+- Deepen expertise in AI/ML infrastructure and LLM platform engineering
+- Advance in Platform Engineering and multi-cluster Kubernetes
+- Strengthen DevSecOps practices across enterprise environments
+- Contribute to CNCF and open-source projects
+- Master advanced cloud-native architectures
 
 ## Latest Blog Posts 👇
-
 <!-- HASHNODE_BLOG:START -->
-
 <table>
 <tr>
 <td>
@@ -59,36 +52,27 @@ A complete deep dive into Kubernetes architecture including control plane compon
 </td>
 </tr>
 </table>
-
 <!-- HASHNODE_BLOG:END -->
 
 <br>
-<br>
 
 <h2 align="center">My GitHub Stats</h2>
-  </div>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="http://www.github.com/imlavish1012">
-            <img src="https://github-readme-stats.vercel.app/api?username=imlavish1012&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Lavish's GitHub stats" />
-          </a> 
-        </td>
-        <td width="45%">
-          <a href="http://www.github.com/imlavish1012">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlavish1012&theme=tokyonight&hide_border=true" />
-          </a>
-    </table>
-      </div>
-      <a href="http://www.github.com/imlavish1012">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlavish1012&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-      </a>
-    </td>
-  </tr>
-
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="45%">
+        <a href="http://www.github.com/imlavish1012">
+          <img src="https://github-readme-stats.vercel.app/api?username=imlavish1012&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Lavish's GitHub stats" />
+        </a>
+      </td>
+      <td width="45%">
+        <a href="http://www.github.com/imlavish1012">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlavish1012&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <a href="http://www.github.com/imlavish1012">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlavish1012&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
 </div>
-    
-</td>
